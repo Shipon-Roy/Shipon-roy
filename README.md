@@ -1,4 +1,4 @@
-# Hi 👋 I'm Shipon Roy
+<h1 align="center"> Shipon Roy </h1>
 
 💻 **Frontend Developer | React & Next.js Developer**
 
